@@ -33,12 +33,34 @@ This project performs an exploratory data analysis (EDA) on the Titanic dataset 
 
 ---
 
+## Chances of Survival
+- The survival of passengers was biased on factors like gender,socio-economic status, etc.
+  <img width="869" height="587" alt="image" src="https://github.com/user-attachments/assets/ecdedf08-9a27-4016-9bd0-2b01626fb942" />
+
+
 ## 📈 Key Insights
 
-- Female passengers had significantly higher survival rates (~74%) compared to males (~19%), suggesting that women were given higher priority in rescues.
-- Passengers in higher classes had better survival outcomes, indicating socioeconomic advantage  
-- Children had higher survival rates, supporting the "women and children first" protocol  
-- Small families had better survival rates compared to solo travelers or large groups  
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/6ab055ca-831e-4fd9-8d3c-02ae8cae3ff3" />
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/7d2fc38a-71a3-4ebf-b44d-dfc1f313c876" />
+
+- Female passengers had significantly higher survival rates (~74%) compared to males (~19%), suggesting that women were given higher priority in rescues
+- Passengers in higher classes had better survival outcomes, indicating socioeconomic advantage
+- Age distribution shows us that majority of the passengers comprised of young adults
+  <img width="714" height="569" alt="image" src="https://github.com/user-attachments/assets/73b5eb56-5c23-4a25-89c2-c662642df5ef" />
+ 
+- Children had higher survival rates, supporting the "women and children first" protocol
+- Small families had better survival rates compared to solo travelers or large groups
+
+  
+  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/303dd8f6-8378-49e5-8ad6-3680b55eb564" />
+  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/82d7fbcd-3d96-4db1-a207-41caca26197c" />
+
+
+- Even in upper classes, gender also decided the survival of people.
+  <img width="711" height="569" alt="image" src="https://github.com/user-attachments/assets/66df7afb-b1d1-48f4-8902-99af5176be62" />
+
+- Survival rate was also noticed upon the Embarkation point, as most of the upper class people embarked from Cherbourg(C)
+   <img width="707" height="564" alt="image" src="https://github.com/user-attachments/assets/5ea3c90b-36d8-43da-8df5-614d3ff95926" />
 
 ---
 
