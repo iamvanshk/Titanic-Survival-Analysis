@@ -35,7 +35,7 @@ This project performs an exploratory data analysis (EDA) on the Titanic dataset 
 
 ## 📈 Key Insights
 
-- Female passengers had significantly higher survival rates (~74%) compared to males (~19%)  
+- Female passengers had significantly higher survival rates (~74%) compared to males (~19%), suggesting that women were given higher priority in rescues.
 - Passengers in higher classes had better survival outcomes, indicating socioeconomic advantage  
 - Children had higher survival rates, supporting the "women and children first" protocol  
 - Small families had better survival rates compared to solo travelers or large groups  
